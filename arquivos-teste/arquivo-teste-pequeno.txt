@@ -1,0 +1,1 @@
+Esse é um arquivo de teste para a Atividade 2: Sistema de Transferência de Arquivos do laboratório de Sockets UDP.
